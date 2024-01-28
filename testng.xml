@@ -1,0 +1,15 @@
+<suite name="Suite" parallel="tests">
+<test thread-count="5" name="Test">
+<classes>
+<class name="rahulshettyacademy.TestDemo"/>
+</classes>
+</test>
+<!--  Test  -->
+<test thread-count="5" name="TestGoogle">
+<classes>
+<class name="rahulshettyacademy.TestDemo2"/>
+</classes>
+</test>
+<!--  Test  -->
+</suite>
+<!--  Suite  -->
